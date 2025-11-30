@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2025-11-30)
+
+
+### Features
+
+* init ([94a2a92](https://github.com/dark-orchid/yazi/commit/94a2a920d3c38075b537af28810936261fece42a))
+
 ## 1.0.0 (2025-11-24)
 
 
